@@ -16,7 +16,7 @@ This project is built to solve specific problems and provide a seamless user exp
 
 ## Useful Links
 To see the project in action, you can check the live version here:
-[Demo](https://github.com/sohailaesmat14/restaurant-FirstProject/) 🔗
+[Demo](https://sohailaesmat14.github.io/restaurant-FirstProject/) 🔗
 
 ---
 
